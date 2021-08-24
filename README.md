@@ -1,2 +1,2 @@
-# ShapesEngine
-ShapesEngine based on SFML.
+# ShapeEngine
+ShapeEngine based on SFML.
